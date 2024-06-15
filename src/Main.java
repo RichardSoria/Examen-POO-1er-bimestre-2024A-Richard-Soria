@@ -152,7 +152,6 @@ public class Main
         VIP vip_3 = new VIP("Luis Martinez", "5566778899", 38, "Masculino", "Ecuatoriano", "T778899", 20.00, "2024-06-15", "2024-06-19", 7, true, "Quito", "Guayaquil", 300.0, "8 horas", "VIP", 0.0, true, "A3", true, true, true, true, true, true, 2, 4.0);
         VIP vip_4 = new VIP("Andrea Fernández", "6677889900", 33, "Femenino", "Ecuatoriana", "T889900", 17.50, "2024-06-16", "2024-06-20", 9, true, "Quito", "Riobamba", 200.0, "4 horas", "VIP", 0.0, true, "A4", true, true, true, true, true, true, 1, 2.0);
 
-        // Mostrar datos de los tickets existentes
         normal_4.mostar_datos_ticket_normal();
         normal_5.mostar_datos_ticket_normal();
         normal_6.mostar_datos_ticket_normal();
