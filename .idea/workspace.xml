@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bd30e33-2712-4674-b3aa-2f2f1395218f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="4bd30e33-2712-4674-b3aa-2f2f1395218f" name="Changes" comment="Creación de objetos 5 vacíos y 5 llenos en la función principal">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Clases_Viajes_Bus/VIP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clases_Viajes_Bus/VIP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +15,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Richard Mauricio Soria Asazan &lt;richard.soria@epn.edu.ec&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2htRyVzZ1kVau2nu3Ak3qYK37uC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,6 +32,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -58,11 +64,68 @@
       <option name="presentableId" value="Default" />
       <updated>1714281714431</updated>
       <workItem from="1714281714432" duration="568000" />
-      <workItem from="1718411642517" duration="650000" />
+      <workItem from="1718411642517" duration="2085000" />
     </task>
+    <task id="LOCAL-00001" summary="Implementacion_desarrollo el codigo">
+      <option name="closed" value="true" />
+      <created>1718412329200</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718412329200</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Implementacion_desarrollo el codigo">
+      <option name="closed" value="true" />
+      <created>1718412350020</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718412350020</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Implementacion_desarrollo el codigo">
+      <option name="closed" value="true" />
+      <created>1718412423170</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718412423170</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Implementacion_desarrollo el codigo">
+      <option name="closed" value="true" />
+      <created>1718412589925</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718412589925</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Creación de objetos 5 vacíos y 5 llenos en la función principal">
+      <option name="closed" value="true" />
+      <created>1718413702963</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718413702963</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implementacion_desarrollo el codigo" />
+    <MESSAGE value="Creación de objetos 5 vacíos y 5 llenos en la función principal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creación de objetos 5 vacíos y 5 llenos en la función principal" />
   </component>
 </project>
